@@ -47,4 +47,4 @@ Proven result:
 6. Test with @codex pool status
 
 ## Demo video
-[Add YouTube link here after recording]
+https://youtu.be/uwiSCAkeXDM
